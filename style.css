@@ -1,0 +1,19 @@
+#first_paragraph{
+   margin-left: 50px; 
+}
+
+#second_paragraph{
+    margin-left: 50px; 
+}
+#second_para_button{
+    color:rgb(8, 129, 8);
+}
+#first_para_button{
+    color:rgb(255, 0, 0);
+}
+#input_box_0_span{
+    visibility: hidden;
+}
+#para_input_box_0{
+    visibility: hidden;
+}
